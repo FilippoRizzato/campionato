@@ -1,0 +1,35 @@
+.topnav{
+    background-color: dodgerblue;
+    padding: 20px;
+}
+
+.topnav a{
+    color: white;
+    margin: 10px;
+    padding: 10px;
+    text-justify: auto;
+}
+
+.footer{
+    background-color: dodgerblue;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    color: white;
+    text-align: center;
+    width: 100%;
+}
+div p {
+    color: blueviolet;
+    font-weight: bold;
+}
+.footer p{
+    color: white;
+}
+.active{
+    background-color: forestgreen;
+}
+.title{
+    text-align: center;
+    font-family: Algerian;
+}
